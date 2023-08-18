@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['QR-codes']
+
+roboflow:
+  workspace: stefano-lacorazza-d5cem
+  project: qr-code-detector-jx362
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/stefano-lacorazza-d5cem/qr-code-detector-jx362/dataset/1
