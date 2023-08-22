@@ -10,7 +10,7 @@ save: true
 save_period: -1
 cache: false
 device: null
-workers: 3
+workers: 8
 project: null
 name: null
 exist_ok: false
@@ -94,4 +94,4 @@ mixup: 0.0
 copy_paste: 0.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs\detect\train12
+save_dir: runs\detect\train11
