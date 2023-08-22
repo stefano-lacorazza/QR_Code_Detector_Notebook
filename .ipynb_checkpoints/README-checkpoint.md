@@ -27,6 +27,7 @@ The repository is organized as follows:
 ```bash
 git clone https:github.comstefano-lacorazza/QR_Code_Detector_Notebook.git
 cd QR_Code_Detector_Notebook.
+```
 2. Upload image you wish to evaluate.
 3. Open QR_detector.ipynb.
 4. Change source in cell 9 to your image name.
