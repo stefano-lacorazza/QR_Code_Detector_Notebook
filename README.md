@@ -25,5 +25,13 @@ The repository is organized as follows:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/qr-code-detection.git
-cd qr-code-detection
+git clone https:github.comstefano-lacorazza/QR_Code_Detector_Notebook.git
+cd QR_Code_Detector_Notebook.
+2. Upload image you wish to evaluate.
+3. Open QR_detector.ipynb.
+4. Change source in cell 9 to your image name.
+5. Run cell 37, to install packages locally.
+6. Run cell 9, it will show the detected QR codes.
+7. Run cell 49, the cropped QR codes will be in the QR-codes directory.
+8. Run cell 21 to display the decoded url.
+9. Run cell 22 to see a preview of the website.
